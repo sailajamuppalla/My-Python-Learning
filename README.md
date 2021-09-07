@@ -13,3 +13,5 @@ I have used the local and global variable declaration. Enjoy the game :)
 
 3) Welcome to Treasure Island. Your mission is to find the treasure. Used mostly if and elif statements.
    Enjoy the game :)
+   
+4) Enjoy the FizzBuzz game.
